@@ -1,5 +1,7 @@
 # Netflix-Clone
-Hello ppl!!
+
+Hello ppl!! 
+You can reach https://chandana-d19.github.io/Netflix-Clone/
 A responsive front-end clone of Netflix, created using HTML and CSS, to replicate its user interface and layout. This project demonstrates skills in web design and styling while mimicking one of the most popular streaming platforms.
 
 Features:-
